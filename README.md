@@ -1,1 +1,1 @@
-My first readme
+Striving to be the best
